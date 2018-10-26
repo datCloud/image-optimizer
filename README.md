@@ -10,6 +10,9 @@ Friendly PHP image optimizer that resize and resample JPEG, JPG and PNG files in
 - Preserves PNG transparency
 - and stuff...
 
+## Setup
+#### Just put this script into your project root and run it on the browser.
+
 ## Author
 
 #### Cloud Andrade
