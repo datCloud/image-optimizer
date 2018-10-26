@@ -129,7 +129,7 @@ DON'T BE LAZY AND GO FIGURE OUT HOW THE CONSTANTS WORKS.
     		$myCounter = 0;
     		$filesAndFolders;
 			foreach(new RecursiveIteratorIterator($rdi) as $file) {
-				if(strpos($file, '\slider') || strpos($file, '\old')) continue;
+				if(strpos($file, '\slider') || strpos($file, '\bkp')) continue;
 		        FlushMessage(++$myCounter." images found");
 		        FlushMessage($file);
 		        $finalName = substr($file, strrpos($file, '\\') + 1);
