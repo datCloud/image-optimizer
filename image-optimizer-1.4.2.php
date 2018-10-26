@@ -69,7 +69,7 @@ DON'T BE LAZY AND GO FIGURE OUT HOW THE CONSTANTS WORKS.
 	<body>
 		<div class="container">
 			<div class="jumbotron">
-				<h1>Image Optimizer 1.4.2</h1>
+				<h1>Image Optimizer 1.4.3</h1>
 				<div class="row">
 					<div class="col-sm-6">
 						<h2>Features:</h2>
