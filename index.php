@@ -113,7 +113,7 @@ DON'T BE LAZY AND GO FIGURE OUT HOW THE CONSTANTS WORKS.
     	define("_maxHeight", 800);
     	define("_fileSizePrecision", 2);
     	define("_createBackup", false);
-    	define("_feedbackDelay", 0.1);
+    	define("_feedbackDelay", 0.0);
 
     	function FlushMessage($message){
     		echo $message."<br><script>logArea = document.querySelector('#log-area');
